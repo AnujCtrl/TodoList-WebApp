@@ -1,2 +1,2 @@
 # TodoList-WebApp
-Using react and supabase
+Using react and supabase and Chakra UI
